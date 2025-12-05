@@ -1,0 +1,24 @@
+{
+  "Trips": [
+    {"TripID":"TRIP001","Source":"Vijayawada","Destination":"Hyderabad","TransportType":"Train","Operator":"Indian Railways","DistanceKm":275,"DurationMin":180,"Fare":350,"Available":"Yes","Departure":"2025-12-10T07:30:00"},
+    {"TripID":"TRIP002","Source":"Vijayawada","Destination":"Guntur","TransportType":"Bus","Operator":"APSRTC","DistanceKm":35,"DurationMin":45,"Fare":50,"Available":"Yes","Departure":"2025-12-10T09:00:00"},
+    {"TripID":"TRIP003","Source":"Hyderabad","Destination":"Bangalore","TransportType":"Flight","Operator":"IndiGo","DistanceKm":570,"DurationMin":75,"Fare":3200,"Available":"Yes","Departure":"2025-12-11T06:00:00"},
+    {"TripID":"TRIP004","Source":"Vijayawada","Destination":"Chennai","TransportType":"Train","Operator":"Indian Railways","DistanceKm":650,"DurationMin":420,"Fare":700,"Available":"Yes","Departure":"2025-12-12T20:30:00"},
+    {"TripID":"TRIP005","Source":"Guntur","Destination":"Vijayawada","TransportType":"Cab","Operator":"OLA","DistanceKm":35,"DurationMin":50,"Fare":600,"Available":"Yes","Departure":"2025-12-10T11:00:00"},
+    {"TripID":"TRIP006","Source":"Hyderabad","Destination":"Mumbai","TransportType":"Flight","Operator":"AirIndia","DistanceKm":710,"DurationMin":100,"Fare":4200,"Available":"No","Departure":"2025-12-13T05:30:00"},
+    {"TripID":"TRIP007","Source":"Bangalore","Destination":"Chennai","TransportType":"Train","Operator":"Indian Railways","DistanceKm":350,"DurationMin":240,"Fare":450,"Available":"Yes","Departure":"2025-12-11T14:00:00"},
+    {"TripID":"TRIP008","Source":"Kolkata","Destination":"Delhi","TransportType":"Flight","Operator":"SpiceJet","DistanceKm":1500,"DurationMin":150,"Fare":3800,"Available":"Yes","Departure":"2025-12-15T09:30:00"},
+    {"TripID":"TRIP009","Source":"Mumbai","Destination":"Pune","TransportType":"Train","Operator":"Indian Railways","DistanceKm":150,"DurationMin":120,"Fare":150,"Available":"Yes","Departure":"2025-12-10T08:00:00"},
+    {"TripID":"TRIP010","Source":"Ahmedabad","Destination":"Surat","TransportType":"Bus","Operator":"Gujarat RTA","DistanceKm":260,"DurationMin":240,"Fare":300,"Available":"Yes","Departure":"2025-12-14T07:00:00"},
+    {"TripID":"TRIP011","Source":"Vijayawada","Destination":"Visakhapatnam","TransportType":"Train","Operator":"Indian Railways","DistanceKm":350,"DurationMin":240,"Fare":400,"Available":"Yes","Departure":"2025-12-12T06:45:00"},
+    {"TripID":"TRIP012","Source":"Hyderabad","Destination":"Vijayawada","TransportType":"Bus","Operator":"Private Bus","DistanceKm":275,"DurationMin":200,"Fare":300,"Available":"Yes","Departure":"2025-12-10T16:00:00"},
+    {"TripID":"TRIP013","Source":"Kochi","Destination":"Thiruvananthapuram","TransportType":"Train","Operator":"Indian Railways","DistanceKm":220,"DurationMin":180,"Fare":220,"Available":"Yes","Departure":"2025-12-13T18:00:00"},
+    {"TripID":"TRIP014","Source":"Goa","Destination":"Mumbai","TransportType":"Flight","Operator":"Vistara","DistanceKm":580,"DurationMin":80,"Fare":3500,"Available":"No","Departure":"2025-12-20T07:45:00"},
+    {"TripID":"TRIP015","Source":"Lucknow","Destination":"Delhi","TransportType":"Train","Operator":"Indian Railways","DistanceKm":510,"DurationMin":300,"Fare":500,"Available":"Yes","Departure":"2025-12-11T05:50:00"},
+    {"TripID":"TRIP016","Source":"Bhubaneswar","Destination":"Cuttack","TransportType":"Cab","Operator":"Uber","DistanceKm":30,"DurationMin":40,"Fare":450,"Available":"Yes","Departure":"2025-12-12T09:30:00"},
+    {"TripID":"TRIP017","Source":"Guntur","Destination":"Hyderabad","TransportType":"Train","Operator":"Indian Railways","DistanceKm":250,"DurationMin":180,"Fare":350,"Available":"Yes","Departure":"2025-12-11T21:00:00"},
+    {"TripID":"TRIP018","Source":"Delhi","Destination":"Agra","TransportType":"Train","Operator":"Indian Railways","DistanceKm":210,"DurationMin":120,"Fare":200,"Available":"Yes","Departure":"2025-12-12T07:20:00"},
+    {"TripID":"TRIP019","Source":"Kolkata","Destination":"Howrah","TransportType":"Metro","Operator":"Metro Rail","DistanceKm":10,"DurationMin":20,"Fare":20,"Available":"Yes","Departure":"2025-12-10T10:00:00"},
+    {"TripID":"TRIP020","Source":"Mumbai","Destination":"Diu","TransportType":"Ferry","Operator":"Local Ferry","DistanceKm":120,"DurationMin":150,"Fare":800,"Available":"Yes","Departure":"2025-12-18T09:00:00"}
+  ]
+}
